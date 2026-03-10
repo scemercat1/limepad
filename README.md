@@ -6,7 +6,7 @@ It's for experiment purposes only. If you have experience with Visual Studio Cod
 If you don't know programming, you can just download it and test it. It helps us!
 
 ### How I install it?
-Just run limepadinstaller.exe or idk that file you got after you download the zip file.
+Read #download.md up.
 
 ### What is the purpose of?
 It's a notepad mixed with visual studio code. You can type HTML/Python/Text. It's still in development so it may not work for directly opening of text files. You may manually do that from the app. As well you can use it to write text and see the live progresion in your browser! No spoilers.
